@@ -1,5 +1,6 @@
 # blockchain
 Building a blockchain with python
+
 class Blockchain(object):
     def __init__(self):
         self.chain = []
